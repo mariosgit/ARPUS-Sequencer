@@ -6,7 +6,9 @@ Experimental Arduino Sequencer.
 
 [Demo on YouTube](https://youtu.be/CoBlpEBPb48)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CoBlpEBPb48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+[![Watch the video](https://i.ytimg.com/vi/CoBlpEBPb48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQz7Cg4EXbzjWf_bvpd7aPdfeBVQ)](https://youtu.be/CoBlpEBPb48)
 
 ## Status
 
